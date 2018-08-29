@@ -1,0 +1,6 @@
+cd      = change directory
+mkdoc   = create folder
+touch   = create file
+ls      = list files
+code    = open up coding app with (variable) doc 
+Ctrl +c = break for new command in gitbash
