@@ -6,9 +6,9 @@ public class Deli
     {
         Scanner s = new Scanner(System.in);
         System.out.println("What food are you ordering? ")
-        food = s.nextInt();
+        food = s.nextLine();
        long item;
-       String Order  = new String ( item );
+       String Order  = new String ( food );
 
 
     }
