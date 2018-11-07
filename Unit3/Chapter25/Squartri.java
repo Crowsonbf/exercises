@@ -11,7 +11,7 @@ public class Squartri
         int square = 0;
         int triangle = 0;
 
-        for(int a = 1; square <= number; a++){
+        for(int a = 0; square <= number; a++){
             square = a * a;
             
             for (int b = 0; triangle <= square; b++){
